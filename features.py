@@ -1,0 +1,11 @@
+
+f0 = "F0semitoneFrom27.5Hz_sma3nz_amean"
+f1 = "F1frequency_sma3nz_amean"
+f2 = "F2frequency_sma3nz_amean"
+f3 = "F3frequency_sma3nz_amean"
+ji = "jitterLocal_sma3nz_amean"
+shi = "shimmerLocaldB_sma3nz_amean"
+mfcc1 = "mfcc1_sma3_amean"
+mfcc2 = "mfcc2_sma3_amean"
+mfcc3 = "mfcc3_sma3_amean"
+mfcc4 = "mfcc4_sma3_amean"
