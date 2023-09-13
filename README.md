@@ -1,7 +1,7 @@
 # MasterThesis_ML-voice-prediction-of-heart-diseases_public
 This is a public repo for my MSc thesis. Due to confidentiality issues, I am not allowed to upload all my code. Therefore, I have included parts of it to exhibit part of my work.
 
-features: contains all the names of the features extracted from the voice samples of the patients. These features were investigate in terms of correlations with the subjective health states indicated by the patients.
+features: contains all the names of the features extracted from the voice samples of the patients. These features were investigated in terms of correlations with the subjective health states indicated by the patients.
 
 metrics: determination the metrics based on which the machine learning prediction were measured
 
